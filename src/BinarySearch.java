@@ -53,13 +53,6 @@ class BinarySearch {
         int[] array = {2, 4, 5, 6, 7};
         int result = search.binary(array, 4);
         System.out.println(result);
-        if (result == -1) {
-
-            System.out.println("This is something dumb");
-        } else {
-            System.out.println("This is some great stuff");
-
-        }
     }
 
 }
